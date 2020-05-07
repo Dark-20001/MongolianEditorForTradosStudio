@@ -2,6 +2,8 @@
 * Mongolian Text Editor plugin used in TradosStudio to provide up to down edit develpoed in C#
 * Compiled with SDL Trados Studio 2015.
 * Editor used third party component mtcf.net32.dll, need copy this file into trados studio:
+[https://github.com/aronsoyol/MTC](https://github.com/aronsoyol/MTC)
+
 C:\Program Files (x86)\SDL\SDL Trados Studio\Studio4
 * Trados Studio require program with strong name.
 
